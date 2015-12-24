@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+<!-- view data -->
+=======
+<!-- View Data -->
+>>>>>>> Testing
+
 <form role="form" class="form-horizontal" method="post" action="<?php echo site_url('persuratan/laporan_persuratan/view') ?>">
 <?php 
     if(empty($surat)){
