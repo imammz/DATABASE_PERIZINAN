@@ -1,0 +1,2376 @@
+0,UMUM
+1,Lambang
+                     .1  ,Garuda
+.2     ,Bendera Kebangsaan
+  .3     ,Lagu Kebangsaan
+                     .4     ,Daerah
+          .31    ,Provinsi
+                   .32    ,Kabupaten/Kota
+2,Tanda Kehormatan/Penghargaan untuk pegawai lihat 861.1
+.1,Bintang
+.2,Satyalencana
+.3,Samkarya Nugraha
+.4,Monumen
+.5,Penghargaan Secara Adat
+.6,Penghargaan lainnya
+3,Hari Raya/Besar
+.1,"Nasional 17 Agustus, Hari Pahlawan, dan sebagainya"
+.2,Hari Raya Keagamaan
+.3,Hari Ulang Tahun
+.4,Hari-hari Besar Internasional
+4,Ucapan
+.1,Ucapan Terima Kasih
+.2,Ucapan Selamat
+.3,Ucapan Belasungkawa
+.4,Ucapan Lainnya
+5,Undangan
+6,Tanda Jabatan
+.1,Pamong Praja
+.2,Tanda Pengenal
+.3,Pejabat lainnya
+7,-
+8,-
+9,-
+10,URUSAN DALAM
+11,Gedung Kantor/Termasuk Instalasi Prasarana Fisik Pamong /Kantor Dinas
+12,Rumah Dinas
+.1,Tanah Untuk Rumah Dinas
+.2,Perabot Rumah Dinas
+,
+.3,Rumah Dinas Golongan 1
+.4,Rumah Dinas Golongan 2
+.5,Rumah Dinas Golongan 3
+.6,Rumah/Bangunan Lainnya
+.7,Rumah Pejabat Negara
+13,Mess/Guest House
+14,Rumah Susun/Apartemen
+15,Penerangan Listrik/Jasa Listrik
+16,Telepon/Faximile/Internet
+17,Keamanan/Ketertiban Kantor
+18,Kebersihan Kantor
+19,Protokol
+.1,Upacara Bendera
+.2,Tata Tempat
+      .21,Pemasangan Gambar Presiden/Wakil Presiden
+.3,Audiensi / Menghadap Pimpinan
+.4,Alamat-Alamat Kantor Pejabat
+.5,Bandir/Umbul-Umbul/Spanduk
+20,PERALATAN
+.1,Penawaran
+21,Alat Tulis
+22,Mesin Kantor
+23,Perabot Kantor
+24,Alat Angkutan
+25,Pakaian Dinas
+26,Senjata
+27,Pengadaan
+28,Inventaris
+29,-
+30,KEKAYAAN DAERAH
+31,Sumber Daya Alam
+32,Asset Daerah
+33,
+34,
+35,
+36,
+40,PERPUSTAKAAN DOKUMENTASI / KEARSIPAN / SANDI
+41,Perpustakaan
+.1,Umum
+.2,Khusus
+.3,Perguruan Tinggi
+.4,Sekolah
+.5,Keliling
+42,Dokumentasi
+43,-
+44,-
+45,Kearsipan
+          .1           ,Pola Klasifikasi
+.2,Penataan Berkas
+.3,Penyusutan Arsip
+.31,Jadwal Retensi Arsip
+.32,Pemindahan Arsip
+.33,Penilaian Arsip
+.34,Pemusnahan Arsip
+.35,Penyerahan Arsip
+.36,Berita Acara Penyusutan Arsip
+.37,Daftar Pencarian Arsip
+.4,Pembinaan Kearsipan
+.41,Bimbingan Teknis
+.5,Pemeliharaan /Perawatan Arsip
+.6,Pengawetan/Fumigasi
+46,Sandi
+47,Website
+48,Pengelolaan Data
+49,Jaringan Komunikasi Data
+50,PERENCANAAN
+.1,Repelita/8 Sukses
+.11,Pelita Daerah
+.12,Bantuan Pembangunan Daerah
+.13,Bappeda
+51,"Proyek Bidang Pemerintahan, Klasifikasikan Disini :"
+,"Proyek Prasaran Fisik Pemerintahan, Tambahkan Perincian 100 Pada 051"
+,Contoh: Proyek Kepenjaraan 051.86
+52,Bidang Politik
+53,Bidang Keamanan Dan Ketertiban Tambhkan Perincian 300 Pada 053
+,Contoh: Proyek Ketataprajaan 053.311
+54,Bidang Kesejahteraan Rakyat Tambahkan Peincian 400 pada 054
+,Contoh: Proyek Resettlement Desa 054.671
+55,Bidang Perekonomian Tambahkan Perincian 500 Pada 055
+,Contoh: Proyek Pasar 055.112
+56,Bidang Pekerjaan Umum Tambahkan Perincian 600 pada 056
+,Contoh: Proyek Jembatan 056.3
+57,Bidang Pengawasan
+58,Bidang Kepegawaian
+59,Bidang Keuangan
+60,ORGANISASI / KETATALAKSANAAN
+.1,Program Kerja
+61,Organisasi Instansi Pemerintah (struktur organisasi)
+.1,Susunan dan Tata Kerja
+.2,"Tata Tertib Kantor, Jam Kerja di Bulan Puasa"
+62,Organisasi Badan Non Pemerintah
+63,Organisasi Badan Internasional
+64,"Organisasi Semi Pemerintah, BKS-AKSI"
+65,Ketatalaksanaan / Tata Naskah / Sistem 
+66,Stempel Dinas
+67,Pelayanan Umum / Pelayanan Publik / Analisis
+68,Komputerisasi / Siskomdagri
+69,Standar Pelayanan Minimal
+70,PENELITIAN
+71,Riset
+72,Survey
+73,Kajian
+74,Kerjasama Penelitian Dengan Perguruan Tinggi
+75,Kementerian Lainnya
+76,Non Kementerian
+77,Provinsi
+78,Kabupaten/Kota
+79,Kecamatan /Desa
+80,KONFERENSI / RAPAT / SEMINAR
+81,Gubernur
+82,Bupati / Walikota
+83,"Komponen, Eselon Lainnya"
+84,Instansi Lainnya
+85,Internasional Di Dalam Negeri
+86,Internasional Di Luar Negeri
+87,-
+88,-
+89,-
+90,PERJALANAN DINAS
+91,Perjalanan Presiden/Wakil Presiden Ke Daerah
+92,Perjalanan Menteri Ke Daerah
+93,Perjalanan Pejabat Tinggi (Pejabat Eselon 1)
+94,Perjalanan Pegawai Termasuk Pemanggilan Pegawai
+95,Perjalanan Tamu Asing Ke Daerah
+96,Perjalanan Presiden/Wakil Presiden Ke Luar Negeri
+97,Perjalanan Menteri Ke Luar Negeri
+98,Perjalanan Pejabat Tinggi Ke Luar Negeri
+99,Perjalanan Pegawai ke Luar Negeri
+100,PEMERINTAHAN 
+101,"Meliputi: Tata Praja, Legislatif, Yudikatif, Hubungan luar negeri"
+102,GDN
+103,-
+104,-
+105,-
+110,PEMERINTAHAN PUSAT
+111,Presiden
+,"Meliputi: pencalonan, pengangkatan, pelantikan, sumpah, dan serah jabatan"
+       .1,Pertanggung jawaban presiden kpd MPR
+.2,Amanat Presiden/Amanat Kenegaraan/Pidato
+112,Wakil Presiden
+       ,"Meliputi: pencalonan, pengangkatan, pelantikan, sumpah, dan serah jabatan"
+.1,Pertanggung jawaban wakil presiden kepada MPR
+.2,Amanat Wakil Presiden/Amanat Kenegaraan/Pidato
+113,Susunan Kabinet
+       .1,Reshuffle
+.2,Penunjukan Menteri ad interim
+.3,Sidang Kabinet
+114,Kementerian Dalam Negeri
+       .1,Amanat Menteri Dalam Negeri/Sambutan
+115,Kementerian lainnya
+116,Lembaga Tinggi Negara
+117,Lembaga Non Kementerian
+118,Otonomi/Desentralisasi/Dekonsentrasi
+119,Kerjasama Antar Kementerian
+120,PEMERINTAH PROVINSI
+4,Laporan daerah
+.042,Monografi tambahkan kode wilayah
+.1,Koordinasi
+.2,Instansi Tingkat Provinsi
+       .21,Dinas Otonomi
+       .22,Instansi Vertikal
+      .23,Kerjasama antar Provinsi/Daerah
+121,"Gubernur tambahkan kode wilayah, meliputi: Pencalonan, "
+,"Pengangkatan, Meninggal, Pelantikan, Pemberhentian, Serah Terima Jabatan dan sebagainya."
+122,"Wakil Gubernur meliputi:  tambahkan kode wilayah pencalonan, "
+,"Pengangkatan, Meninggal, Pelantikan, Pemberhentian, Serah Terima Jabatan  dan sebagainya."
+123,"Sekretaris Wilayah tambahkan kode wilayah, meliputi: Pencalonan, "
+,"Pengangkatan, Meninggal, Pelantikan, Pemberhentian, Serah Terima Jabatan dan sebagainya."
+124,Pembentukan/Pemekaran Wilayah 
+                                                   .1," Pembinaan/Perubahan Nama kepada: Daerah, Kota,Benda Geografis, Gunung, Sungai, Pulau, Selat, Batas laut, dan sebagainya"
+.2,Pemekaran  Wilayah
+.3,Forum Koordinasi lainnya
+125,Pembentukan Pemekaran Wilayah
+,"Pembinaan/Perubahan Nama Kepada: Daerah, Kota, Benda Geografis, Gunung, Sungai, Pulau, Selat, Batas Laut, dan sebagainya."
+          .2                                    ,Pembentukan Wialayah
+                     .3,Pemindahan Ibukota
+                     .4,Perubahan batas Wilayah
+                     .5,Pemekaran Wialayah
+126,Pembagian Wilayah
+127,Penyerahan Urusan
+128, Swaparaja/Penataan Wilayah/Daerah
+129,-
+130,PEMERINTAH KABUPATEN / KOTA
+131,"Bupati /Walikota, Tambahkan Kode Wilayah, Meliputi: Pencalonan,Pengangkatan, Meninggal, Pelantikan, Pemberhentian, Serah Terima Jabatan, dsb"
+,Sambutan / Pengarahan / Amanat
+132,"Wakil Bupati /Walikota, Tambahkan Kode Wilayah, Meliputi: Pencalonan, Pengangkatan, Meninggal, Pelantikan, Pemberhentian, Serah Terima Jabatan,"
+133,"Sekretaris Daerah Kabupaten/Kota, Tambahkan Kode Wilayah, Meliputi: Pencalonan, Pengangkatan, Meninggal, Pelantikan, Pemberhentian, Serah Terima Jabatan,."
+134,Forum Koordinasi Pemerintah Di Daerah
+.1,Muspida
+.2,Forum PAN (Panitian Anggaran Nasional)
+.3,Forum Koordinasi Lainnya
+.4,Kerjasama antar Kabupaten/Kota
+135,Pembentukan / Pemekaran Wilayah
+.1,Pemindahan Ibukota
+.2,Pembentukan Wilayah Pembantu Bupati/Walikota
+.3,Pemabagian Wilayah Kabupaten/Kota
+.4,Perubahan Batas Wilayah
+.5,Pemekaran Wilayah
+.6,Permasalahan Batas Wilayah
+                 .7,Pembentukan Ibukota Kabupaten/Kota
+.8,"Pemberian dan Penggantian Nama Kabupaten/Kota, Daerah, Jalan"
+136,Pembagian Wilayah
+137,Penyerahan Urusan
+138,Pemerintah Wilayah Kecamatan
+.1,Sambutan / Pengarahan / Amanat
+.2,Pembentukan Kecamatan
+.3,Pemekaran Kecamatan
+.4,Perluasan/Perubahan Batas Wilayah Kecamatan
+.5,Pembentukan Perwakilan Kecamatan/Kemantren
+.6,-
+.7,-
+139,-
+140,PEMERINTAHAN DESA / KELURAHAN
+141,"Pamong Desa, Meliputi: Pencalonan, Pemilihan, Meninggal, Pengangkatan, Pemberhenian, dan sebagainya"
+142,Penghasilan Pamong Desa
+143,Kekayaan Desa
+144,"Dewan Tingkat Desa, Dewan Marga, Rembug Desa"
+145,Administrasi Desa
+146,Kewilayahan
+.1,Pembentukan Desa/Kelurahan
+.2,Pemekaran Desa/Kelurahan
+.3,Perubahan Batas Wilayah / Perluasan Desa / Kelurahan
+.4,Perubahan Nama Desa / Kelurahan
+.5,Kerjasama Antar Desa / Kelurahan
+147,Lembaga-lembaga Tingkat Desa
+,"Jangan Klasifikasikan Disini, Lihat 410 Dengan Perinciannya"
+148,Perangkat Kelurahan
+.1,Kepala Kelurahan
+.2,Sekretaris Kelurahan
+.3,Staf Kelurahan
+149,Dewan Kelurahan
+.1,Rukun Tetangga
+.2,Rukun Warga
+.3,Rukun Kampung
+150,LEGISLATIF MPR / DPR / DPD
+151,Keanggotaan MPR
+.1,Pencalonan
+.2,Pemberhentian
+.3,Recall
+.4,Pelanggaran
+152,Persidangan
+153,Kesejahteraan
+.1,Keuangan
+.2,Penghargaan
+154,Hak
+155,Keanggotaan DPR Pencalonan Pengangkatan
+156,Persidangan Sidang Pleno Dengar Pendapat/Rapat Komisi Reses
+157,Kesejahteraan
+.1,Keuangan
+.2,Penghargaan
+158,Jawaban Pemerintah
+159,Hak
+160,DPRD PROVINSI TAMBAHKAN KODE WILAYAH
+161,Keanggotaan 
+.1,Pencalonan
+.2,Pengangkatan
+.3,Pemberhentian
+.4,Recall
+.5,Meninggal
+.6,Pelanggaran
+162,Persidangan
+.1,Reses
+163,Kesejahteraan
+.1,Keuangan
+.2,Penghargaan
+164,Hak
+165,Sekretaris DPRD Provinsi
+166,-
+167,-
+168,-
+170,DPRD KABUPATEN TAMBAHKAN KODE WILAYAH
+171,Keanggotaan
+.1,Pencalonan
+.2,Pengangkatan
+.3,Pemberhentian
+.4,Recall
+.5,Pelanggaran
+172,Persidangan
+173,Kesejahteraan
+.1,Keuangan
+.2,Penghargaan
+174,Hak
+175,Sekretaris DPRD Kabupaten/Kota
+176,-
+177,-
+178,-
+180,HUKUM
+.1,Kontitusi
+.11,Dasar Hukum
+.12,Undang-Undang Dasar
+.2,GBHN
+.3,"Amnesti, Abolisi dan Grasi"
+181,Perdata
+.1,Tanah
+.2,Rumah
+.3,Utang/Piutang
+.31,Gadai
+.32,Hipotik
+.4,Notariat
+182,Pidana
+.1 ,Penyidik Pegawai Negeri Sipil (PPNS)
+183,Peradilan
+,Peradilan Agama Islam 451.6
+,Peradilan Perkara Tanah 593.71
+.1,Bantuan Hukum
+184,Hukum Internasional
+185,Imigrasi
+.1,Visa
+.2,Pasport
+.3,Exit
+.4,Reentry
+.5,Lintas Batas/Batas Antar Negara
+186,Kepenjaraan
+187,Kejaksaan
+188,Peraturan Perundang-Undangan
+.1,TAP MPR
+.2,Undang-Undang Dasar
+.3,Peraturan 
+.31,Peraturan Pemerintah
+.32,Peraturan Menteri
+.33,Peraturan Lembaga Non Departemen
+.34,Peraturan Daerah
+.341,Peraturan Provinsi
+.342,Peraturan Kabupaten/Kota
+.4,Keputusan
+.41,Presiden
+.42,Menteri
+.43,Lembaga Non Departemen
+.44,Gubernur
+.45,Bupati/Walikota
+.5,Instruksi
+.51,Presiden
+.52,Menteri
+.53,Lembaga Non Departemen
+.54,Gubernur
+.55,Bupati/Walikota
+189,Hukum Adat
+.1,Tokoh Adat/Masyarakat
+190,HUBUNGAN LUAR NEGERI
+191,Perwakilan Asing
+192,Tamu Negara
+193,Kerjasama Dengan Negara Asing
+.1,Asean
+.2,Bantuan Luar Negeri/Hibah
+194,Perwakilan RI Di Luar Negeri/Hibah
+195,PBB
+196,Laporan Luar Negeri
+197,Hutang Luar Negeri PHLN/LOAN
+198,-
+199,-
+200,POLITIK
+201,Kebijaksanaan umum
+202,Orde baru
+203,Reformasi
+204,-
+205,-
+206,-
+210,KEPARTAIAN
+211,Lambang partai
+212,Kartu tanda anggota
+213,Bantuan keuangan parpol
+214,-
+215,-
+216,-
+220,ORGANISASI KEMASYARAKATAN
+221,Berdasarkan perjuangan
+.1,Perintis kemerdekaan
+.2,angkatan 45
+.3,Veteran
+222,Berdasarkan Kekaryaan
+.1,PEPABRI
+.2,Wredatama
+223,Berdasarkan kerohanian
+224,Lembaga adat
+225,Lembaga Swadaya Masyarakat
+226,-
+230,ORGANISASI PROFESI DAN FUNGSIONAL
+231,Ikatan Dokter Indonesia
+232,Persatuan Guru Republik Indonesia
+233,PERSATUAN SARJANA HUKUM INDONESIA
+234,Persatuan Advokat Indonesia
+235,Lembaga Bantuan Hukum Indonesia
+236,Korps Pegawai Republik Indonesia
+237,Persatuan Wartawan Indonesia
+238,Ikatan Cendikiawan Muslim Indonesia
+239,Organisasi Profesi Dan Fungsional Lainnya
+240,ORGANISASI PEMUDA
+241,Komite Nasional Pemuda Indonesia
+242,Organisasi Mahasiswa
+243,Organisasi Pelajar
+244,Gerakan Pemuda Ansor
+245,Gerakan Pemuda Islam Indonesia
+246,Gerakan Pemuda Marhaenis
+247,-
+248,-
+250,"ORGANISASI BURUH, TANI, NELAYAN DAN ANGKUTAN"
+251,Federasi Buruh Seluruh Indonesia
+252,Organisasi Buruh Internasional
+253,Himpunan Kerukunan Tani 
+254,Himpunan Nelayan Seluruh Indonesia
+255,Keluarga Sopir Proporsional Indonesia
+256,-
+257,-
+258,-
+260,ORGANISASI WANITA
+261,Dharma Wanita
+262,Persatuan Wanita Indonesia
+263,Pemberdayaan Perempuan (wanita)
+264,Kongres Wanita
+265,-
+266,-
+267,-
+268,-
+269,-
+270,PEMILIHAN UMUM
+271,Pencalonan
+272,Nomor Urut Partai / Tanda Gambar
+273,Kampanye 
+274,Petugas Pemilu
+275,Pemilih / Daftar Pemilih
+276,Sarana
+.1,   TPS
+.2,    Kendaraan 
+.3,   Surat Suara
+.4,Kotak Suara
+.5,Dana
+277,Pemungutan Suara / Perhitungan Suara
+278,Penetapan Hasil Pemilu
+279,Penetapan Perolehan Jumlah Kursi Dan Calon Terpilih
+280,"Pengucapan Sumpah Janji MPR,DPR,DPD"
+281,
+282,-
+283,-
+284,-
+300,KEAMANAN / KETERTIBAN
+301,Keamanan
+302,Ketertiban
+303,-
+310,PERTAHANAN
+311,Darat 
+312,Laut
+313,Udara
+314,Perbatasan
+315,-
+316,-
+317,-
+320,KEMILITERAN
+321,Latihan Militer
+322,Wajib Militer
+323,Operasi Militer
+324,Kekaryaan TNI Pejabat Sipil dari TNI
+.1,TMD
+325,- 
+326,-
+327,-
+328,-
+330,KEAMANAN
+331,Kepolisian
+.1,Polisi Pamong Praja
+.2,Kamra
+.3,Kamling
+.4,Jaga Wana
+332,Huru-Hara / Demonstrasi
+333,Senjata Api Tajam
+334,Bahan Peledak
+335,Perjudian
+336,Surat-Surat Kaleng
+337,Pengaduan
+338,Himbauan / Larangan
+339,Teroris
+340,PERTAHANAN SIPIL
+341,Perlindungan Sipil
+342,-
+343,-
+344,-
+350,KEJAHATAN
+351,Makar / Pemberontak
+352,Pembunuhan
+353,"Penganiayaan, Pencurian"
+354,Subversi / Penyelundupan / Narkotika
+355,Pemalsuan
+356,Korupsi / Penyelewengan / Penyalahgunaan Jabatan / KKN
+357,Pemerkosaan / Perbuatan Cabul
+358,Kenakalan
+359,Kejahatan Lainnya
+360,BENCANA
+361,Gunung Berapi / Gempa
+362,Banjir / Tanah Longsor
+363,Angin Topan
+364,Kebakaran
+.1,Pemadam Kebakaran
+365,Kekeringan
+366, Tsunami
+367,-
+368,-
+370,KECELAKAAN / SAR
+371,Darat
+372,Udara
+373,Laut
+374,Sungai / Danau
+375,-
+376,-
+377,-
+380,-
+381,-
+382,-
+383,-
+390,-
+391,-
+392,-
+393,-
+400,KESEJAHTERAAN RAKYAT
+401,Keluarga Miskin
+402,PNPM Mandiri Pedesaan
+403,-
+404,-
+410,PEMBANGUNAN DESA
+411,Pembinaan Usaha Gotong Royong
+   .1,Swadaya Gotong Royong
+.11,Penataan Gotong Royong
+.12,Gotong Royong Dinamis
+.13,Gotong Royong Statis
+.14,Pungutan
+   .2,Lembaga Sosial Desa (LSD)
+.21,Pembinaan 
+.22,Klasifikasi
+.23,Proyek
+.24,Musyawarah
+   .3,Latihan Kerja Masyarakat
+.31,Kader Masyarakat
+.32,Kuliah Kerja Nyata (KKN)
+.33,Pusat Latihan
+.34,Kursus-Kursus
+.35,Kurikulum / Sylabus
+.36,Ketrampilan
+.37,Pramuka
+   .4,Pembinaan Kesejahteraan Keluarga (PKK)
+.41,Program
+.42,Pembinaan Organisasi
+.43,Kegiatan
+   .5,Penyuluhan
+.51,Publikasi
+.52,Peragaan
+.53,Sosio Drama
+.54,Siaran Pedesaan
+.55,Penyuluhan Lapangan
+   .6,Kelembagaan Desa
+.61,Kelompok Tani
+.62,Rukun Tani
+.63,Subak
+.64,Dharma Tirta
+412,Perekonomian Desa
+   .1,Produksi Desa
+.11,Pengolahan
+.12,Pemasaran
+   .2,Keuangan Desa
+.21,Perkreditan Desa
+.22,Inventarisasi Data
+.23,Perkembangan / Pelaksanaan
+.24,Bantuan / Stimulans
+.25,Petunjuk / Pembinaan Pelaksanaan
+  .3,Koperasi Desa
+.31,Badan Usaha Unit Desa (BUUD)
+.32,Koperasi Usaha Desa
+  .4 ,Penataan Bantuan Pembangunan Desa
+.41,Jumlah Desa Yang Diberi Bantuan
+.42,Pengarahan
+.43,Pusat 
+.44,Daerah
+  .5,Alokasi Bantuan Pembangunan Desa
+.51,Pusat
+.52,Daerah
+  .6,Pelaksanaan Bantuan Pembangunan Desa
+.61,Bantuan Langsung
+.62,Bantuan Keserasian
+.63,Bantuan Juara Lomba Desa
+413,Prasarana Desa
+1,Prasarana Desa
+.11,Pembinaan
+.12,Bimbingan Teknis
+  .2,Pemukiman Kembali Penduduk
+.21,Lokasi
+.22,Diskusi
+.23,Pelaksanaan
+  .3,Masyarakat Pradesa
+.31,Pembinaan
+.32,Penyuluhan
+.4,Pemugaran Perumahan Dan Lingkungan Desa
+.41,Rumah Sehat
+.42,Proyek Perintis
+.43,Pelaksanaan
+.44,Pengembangan
+.45,Perbaikan Kampung
+414,Pengembangan Desa
+.1,Tingkat Perkembangan Desa
+.11,Jumlah Desa 
+.12,Pemekaran Desa
+.13,Pembentukan Desa Baru
+.14,Evaluasi
+.15,Bagan
+.2,Unit Desa Kerja Pembangunan (UDKP)
+.21,Penyuluhan Program
+.22,Lokasi UDKP
+.23,Pelaksanaan
+.24,Bimbingan/Pembinaan
+.25,Evaluasi
+.3,Tata Desa
+.31,Inventarisasi 
+.32,Penyusunan Pola Tata Desa
+.33,Aplikasi Tata Desa
+.34,Pemetaan
+.35,Pedoman Pelaksanaan
+.36,Evaluasi
+.4,Perlombaan Desa
+.41,Pedoman 
+.42,Penilaian
+.43,Kejuaraan
+.44,Piagam
+415,Koordinasi
+.1,Sektor Khusus
+.2,Rapat Koordinasi Horizontal (RKH)
+.3,Tim Koordinasi Pusat (TKP)
+.4,Kerjasama
+.41,     Luar Negeri (UNICEF)
+.42,Perguruan Tinggi
+.43,Kementerian / Lembaga Non Kementerian
+416,-
+417,-
+418,-
+420,PENDIDIKAN
+    .1,Pendidikan Khusus Klasifikasi Disini Pendidikan Putra/I Irja
+421,Sekolah
+   .1,Pra Sekolah
+   .2,Sekolah Dasar
+   .3,Sekolah Menengah
+   .4,Sekolah Tinggi
+   .5,Sekolah Kejuruan
+   .6,"Kegiatan Sekolah, Dies Natalis Lustrum"
+   .7,Kegiatan Pelajar
+  .71,Reuni Darmawisata
+ .72,Pelajar Teladan
+ .73,Resimen Mahasiswa 
+   .8,Sekolah Pendidikan Luar Biasa
+   .9,Pendidikan Luar Sekolah / Pemberantasan Buta Huruf
+422,Administrasi Sekolah
+  .1,"Persyaratan Masuk Sekolah, Testing, Ujian, Pendaftaran, Mapras, Perpeloncoan"
+  .2,Tahun Pelajaran 
+  .3,Hari Libur
+  .4,"Uang Sekolah, Klasifikasi Disini SPP"
+  .5,Beasiswa
+423,Metode Belajar
+  .1,Kuliah
+  .2,"Ceramah, Simposium"
+  .3,Diskusi
+  .4,"Kuliah Lapangan, Widyawisata, KKN, Studi Tur"
+  .5,Kurikulum
+  .6,Karya Tulis
+  .7,Ujian
+424,"Tenaga Pengajar, Guru, Dosen, Dekan, Rektor"
+,Klasifikasi Disini: Guru Teladan
+425,Sarana Pendidikan
+  .1,Gedung
+  .11,Gedung Sekolah
+  .12,Kampus
+  .13,Pusat Kegiatan Mahasiswa
+  .2,Buku
+  .3,Perlengkapan Sekolah
+426,Keolahragaan
+  .1,Cabang Olah Raga
+  .2,Sarana 
+ .21,Gedung Olah Raga
+ .22,Stadion
+ .23,Lapangan
+ .24,Kolam renang
+  .3,"Pesta Olah Raga, Klasifikasi Disini: PON, Porsade, Olimpiade, dsb"
+  .4,KONI
+427,Kepramukaan Meliputi: Organisasi Dan Kegiatan Remaja
+,Klasifikasi Disini: Gelanggang Remaja
+428,Kepramukaan 
+429,"Pendidikan  Kedinasan Untuk Depdagri, Lihat 890"
+430,KEBUDAYAAN
+431,Kesenian
+    .1,Cabang Kesenian
+    .2,Sarana
+  .21,Gedung Kesenian
+432,Kepurbakalaan
+   .1,Museum
+   .2,Peninggalan Kuno
+  .21,Candi Termasuk Pemugaran
+  .22,Benda
+433,Sejarah
+434,Bahasa
+435,"Usaha Pertunjukan, Hiburan, Kesenangan"
+436,Kepercayaan
+437,-
+438,-
+439,-
+440,KESEHATAN
+441,Pembinaan Kesehatan
+    .1,Gizi
+    .2,Mata
+    .3,Jiwa
+    .4,Kanker
+    .5,Usaha Kegiatan Sekolah (UKS)
+    .6,Perawatan
+    .7,Penyuluhan Kesehatan Masyarakat (PKM)
+    .8,Pekan Imunisasi Nasional
+442,Obat-obatan
+    .1,Pengadaan
+    .2,Penyimpanan
+443,Penyakit Menular
+    .1,Pencegahan
+    .2,Pemberantasan dan Pencegahan
+,Penyakit Menular Langsung (P2ML)
+  .21,Kusta
+  .22,Kelamin
+  .23,Frambosia
+  .24,TBC / AIDS / HIV
+  .3,Epidemiologi dan Karantina (Epidka)
+  .31,Kholera
+  .32,Imunisasi
+  .33,Survailense
+  .34,Rabies (Anjing Gila) Antraks
+   .4,Pemberantasan & Pencegahan Penyakit Menular Sumber Binatang (P2B)
+ .41,Malaria
+ .42,Dengue Faemorrhagic Fever (Demam Berdarah HDF)
+ .43,Filaria
+ .44,Serangga
+  .5,Hygiene Sanitasi
+ .51,Tempat-tempat Pembuatan Dan Penjualan Makanan dan Minuman (TPPMM)
+ .52,Sarana Air Minum Dan Jamban Keluarga (Samijaga)
+ .53,Pestisida
+444,Gizi
+    .1,"Kekurangan Makanan Bahaya Kelaparan, Busung Lapar"
+    .2 ,Keracunan Makanan
+    .3,Menu Makanan Rakyat
+    .4,Badan Perbaikan Gizi Daerah (BPGD)
+    .5,Program Makanan Tambahn Anak Sekolah (PMT-AS)
+445,"Rumah Sakit, Balai Kesehatan, PUSKESMAS, PUSKESMAS Keliling, Poliklinik"
+446,Tenaga Medis
+448,Pengobatan Tadisional
+    .1,Pijat
+    .2,Tusuk Jarum
+   .3,Jamu Tradisional
+   .4,Dukun / Paranormal
+450,AGAMA
+451,Islam
+  .1,Peribadatan
+  .11,Sholat
+  .12,Zakat Fitrah
+  .13,Puasa
+  .14,MTQ
+ .2,Rumah Ibadah
+ .3,Tokoh Agama
+ .4,Pendidikan
+ .41,Tinggi
+42,Menengah
+ .43,Dasar
+ .44,Pondok Pesantren
+ .45,Gedung Sekolah
+ .46,Tenaga Pengajar
+ .47,Buku
+ .48,Dakwah
+ .49,Organisasi / Lembaga Pendidikan
+ .5,"Harta Agama Wakaf, Baitulmal, dsb"
+ .6,Peradilan
+ .7,Organisasi Keagamaan Bukan Politik Majelis Ulama
+ .8,Mazhab
+452,Protestan
+   .1,Peribadatan
+   .2,Rumah Ibadah
+   .2,"Tokoh Agama, Rohaniawan, Pendeta, Domine"
+   .4,Mazhab
+   .5,Organisasi Gerejani
+453,Katolik
+   .1,Peribadatan
+   .2,Rumah Ibadah
+ .3,"Tokoh Agama, Rohaniawan, Pendeta, Pastor"
+ .4,Mazhab
+ .5,Organisasi Gerejani
+454,Hindu
+  .1,Peribadatan
+  .2,Rumah Ibadah
+  .3,"Tokoh Agama, Rohaniawan"
+  .4,Mazhab
+  .5,Organisasi Keagamaan 
+455,Budha
+   .1,Peribadatan
+   .2,Rumah Ibadah
+   .3,"Tokoh Agama, Rohaniawan"
+   .4,Mazhab
+   .5,Organisasi Keagamaan 
+456,Urusan Haji
+  .1,ONH
+  .2,Manasik
+457,-
+458,-
+458,-
+460,SOSIAL
+461,Rehabilitasi Penderita Cacat
+   .1,Cacat Maat
+   .2,Cacat Tubuh
+   .3,Cacat Mental
+   .4,Bisul/Tuli
+462,Tuna Sosial
+   .1,Gelandangan
+   .2,Pengemis
+   .3,Tuna Susila
+   .4,Anak Nakal
+463,Kesejahteraan Anak / Keluarga
+   .1,Anak Putus Sekolah
+   .2,Ibu Teladan
+.   3,Anak Asuh
+464,Pembinaan Pahlawan
+   .1,"Pahlawan Meliputi: Penghargaan Kepada Pahlawan, Tunjangan Kepada Pahlawan Dan Jandanya"
+   .2,"Perintis Kemerdekaan Meliputi: Pembinaan, Penghargaan Dan Tunjangan Kepada Perintis"
+   .3,Cacat Veteran
+465,Kesejahteraan Sosial
+  .1 ,Lanjut Usia
+  .2,"Korban Kekacauan, Pengungsi, Repatriasi"
+466,Sumbangan Sosial
+  .1,Korban Bencana
+  .2,Pencarian Dana Untuk Sumbangan
+  .3,"Meliputi: Penyelenggaraan Undian, Ketangkasan, Bazar, dsb"
+  .4,Panti Asuhan
+  .5,Panti Jompo
+467,Bimbingan Sosial
+  .1,"Masyarakat Suku Terasing Meliputi: Bimbingan, Pendidikan, Kesehatan, Pemukiman"
+468,PMI
+469,Makam
+  .1,Umum
+  .2,"Pahlawan Meliputi: Penghargaan Kepada Pahlawan, Tunjangan Kpd Pahlawan Dan Jandanya"
+  .3,Khusus Keluarga Raja
+  .4,Krematorium
+470,KEPENDUDUKAN
+471,Pendaftaran Penduduk
+  .1,Identitas Penduduk
+  .11,Biodata
+  .12,Nomor Induk Kependudukan
+  .13,Kartu Tanda Penduduk
+  .14,Kartu Keluarga
+  .15,Advokasi Indentitas Penduduk
+  .2,Perpindahan Penduduk Dalam Wilayah Indonesia
+  .21,Perpindahan Penduduk WNI
+  .22,Perpindahan Penduduk WNA Dalam Wilayah Indonesia
+  .23,Perpindahan Penduduk WNA dan WNI Tinggal Sementara
+  .24,Daerah Terbelakan
+  .25,Bedol Desa
+  .3,Perpindahan Penduduk Antar Negara
+  .31,Penduduk Indonesia Ke Luar Negeri
+  .32,Orang Asing Tinggal Sementara
+  .33,Orang Asing Tinggal Tetap
+  .34,Perpindahan Penduduk Antar Negara Di Wilayah Pembatasan Antar Negara (Pelintas Batas Tradisional)
+  .4,Pendaftaran Pengungsi Dan Penduduk Rentan
+  .41,Akibat Bencana Alam
+  .42,Akibat Kerusuhan Sosial
+  .43,Pendaftaran Penduduk Daerah Terbelakang
+  .44,Pendaftaran Penduduk Rentan
+472,Pencatatan Sipil
+  .1,"Kelahiran, Kematian Dan Advokasi"
+  .11,Kelahiran
+  .12,Kematian
+  .13,Advokasi Kelahiran Dan Kematian
+  .2,"Perkawinan, Peceraian Dan Advokasi"
+  .21,Perkawinan Agama Islam
+  .22,Perkawinan Agama Non Islam
+  .23,Perceraian Agama Islam
+  .24,Perceraian Agama Non Islam
+  .25,Advokasi Perkawinan Dan Perceraian
+ .3,"Pengangkatan, Pengakuan, Dan Pengesahan Anak Serta Perubahan Dan Pembatalan Akta Dan Advokasi"
+,Pengangkatan Anak
+ .31,Pengangkatan Anak
+ .32,Pengakuan Anak
+ .33,Pengesahan Anak
+ .34,Perubahan Anak
+ .35,Pembatalan Anak
+ .36,"Advokasi Pengurusan Pengangkatan, Pengakuan Dan Pengesahan Anak Serta Perubahan Dan Pembatalan Akta"
+ .4,Pencatatan Kewarganegaraan
+ .41,Akibat Perkawinan
+ .42,Akibat Kelahiran
+ .43,Non Perkawinan
+ .44,Non Kelahiran
+ .45,Perubahan WNI ke WNA
+473,Informasi Kependudukan
+  .1,Teknologi Informasi
+  .11,Perangkat Keras 
+  .12,Perangkat Lunak
+  .13,Jaringan Komunikasi Data
+  .2,Kelembagaan Dan Sumber Daya Informasi
+  .21,Daerah Maju
+  .22,Daerah Berkembang
+  .23,Daerah Terbelakang
+ .3,Pengolahan Data Kependudukan
+  .31,Pendaftaran Penduduk
+  .32,Kejadian Vital Penduduk
+  .33,Penduduk Non Registrasi
+  .4,Pelayanan Informasi Kependudukan
+41,Media Elektronik
+  .42,Media Cetak
+  .43,Outlet
+474,Perkembangan Penduduk
+  .1,Pengarahan Kuantitas Penduduk
+  .11,Struktur Jumlah
+  .12,Komposisi
+  .13,Fertilitas
+  .14,Kesehatan Reproduksi
+  .15,Morbiditas Penduduk
+  .16,Mortalitas Penduduk
+  .2,Pengembangan Kuantitas Penduduk
+  .21,Anak dan Remaja
+  .22,Penduduk Usia Produktif
+  .23,Penduduk Lanjut Usia
+  .24,Gender
+  .3,Penataan Persebaran Penduduk
+  .31,Migrasi Antar Wilayah
+  .32,Migrasi Internasional
+  .33,Urbanisasi
+  .34,Sementara
+  .35,Migrasi Non Permanen
+ .4,Perlindungan Pemberdayaan Penduduk
+  .41,Pengembangan Sistem Pelindungan Penduduk
+  .42,Pelayanan Kelembagaan Ekonomi
+  .43,Pelayanan Kelembagaan Sosial Budaya
+  .44,Partisipasi Masyarakat
+  .5,Pengembangan Wawasan Kependudukan
+  .51,Pendidikan Jalur Sekolah
+  .52,Pendidikan Jalur Luar Sekolah
+  .53,Pendidikan Jalur Masyarakat
+  .54,Pembangunan Berwawasan Kependudukan
+475,Proyeksi Dan Penyerasian Kebijakan Kependudukan
+  .1,Indikator Kependudukan
+  .11,Perumusan Penetapan Dan Pengembangan Indikator Kependudukan
+  .12,Pemanfaatan Indikator Kependudukan
+  .13,Sosialisasi Indikator Kependudukan
+  .2,Proyeksi Kependudukan
+  .21,Penyusunan Dan Pengembangan Proyeksi Kependudukan
+  .22,Pemanfaatan Proyeksi Kependudukan 
+3,Analisis Dampak Kependudukan 
+ .31,Penyusunan Dan Pengembangan 
+ .32,Pemanfaatan Analisis Dampak Kependudukan
+ .4,Penyerasian Kebijakan Lembaga Non Pemerintah
+ .41,Lembaga Internasioanal 
+ .42,Lembaga Masyarakat Dan Nirlaba
+ .43,Lembaga Usaha Swasta
+ .5,Penyerasian Kebijakan Lembaga Pemerintah
+ .51,Lembaga Pemerintah
+ .52,Pemerintah Provinsidan Kota
+ .53,Pemerintah Kabupaten
+ .6,Analisis 
+476,Monitoring
+477,Evaluasi
+478,Dokumentasi
+479,-
+480,MEDIA MASSA
+481,Penerbitan
+  .1,Surat Kabar
+  .2,Majalah
+  .3,Buku 
+  .4,Penerjemahan
+482,Radio
+  .1,RRI
+  .11,Siaran Pedesaan Jgn Diklasifikasikan Disini
+  .2,Non RRI
+  .3 ,Luar Negeri
+483,Televisi
+484,Film
+485,Pers
+   .1,Kewartawanan
+   .2,Wawancara
+   .3,Informasi Nasional
+486,Grafika
+487,Penerangan
+  .1,Pameran Non Komersil
+488,Operation Room
+489,Hubungan Masyarakat
+490,Pengaduan Masyarakat
+491,-
+492,-
+500,PEREKONOMIAN
+   .1,Dewan Stabilisasi
+501,Pengadaan Pangan
+502,Pengadaan Sandang
+503,"Perizinan Pada Umumnya Untuk Perizinan Suatu Bidang, Kalsifikasikan Masalahnya"
+504,-
+505,-
+506,-
+510,PERDAGANGAN
+,Klasifikasikan Disini: Tata Niaga
+  .1,Promosi Perdagangan
+  .11,Pekan Raya
+  .12,Iklan
+  .13,Pameran Non Komersil
+  .2,Pelelangan
+  .3 ,Tera
+511,Pemasaran
+   .1,"Sembilan Bahan Pokok, Tambahkan Kode Wilayah : Beras, Garam, Tanah, Minyak Goreng"
+   .2,Pasar
+   .3,"Pertokoan, Kaki Lima, Kios"
+512,Ekspor
+513,Impor
+514,Perdagangan Antar Pulau
+515,Perdagangan Luar Negeri
+516,Pergudangan
+517,Aneka Usaha Perdagangan
+518,"Koperasi untuk BUUD, KUD lihat ( 412.31-412.32)"
+,
+519,-
+520,PERTANIAN
+521,Tanaman Pangan
+  .1,Program
+  .11,Bimas / Inmas Termasuk Kredit
+  .12,Penyuluhan
+ .2,Produksi
+ .21,Padi / Panen
+ .22,Palawija
+ .23,Jagung
+ .24,Ketela Pohon / Ubi-Ubian
+ .25,Hortikultura
+ .26,Sayuran / Buah-Buahan
+ .27,Tanaman Hias
+ .28,Pembudidayaan Rumput Laut
+ .3,Saran Usaha Pertanian                                                                                                                  
+ .31,Peralatan Meliputi: Traktor Dan Peralatan Lainya
+ .33,Pembibitan                                                                                                                 
+ .34,Pupuk                                                                                                                                                                    
+  .4 ,Perlindungan Tanaman
+  .41,"Penyakit, Penyakit Daun, Penyakit Batang                                                                            "
+  .42,"Hama, Serangga, Wereng, Walang Sangit, Tungru, Tikus Dan Sejenisnya                                         "
+  .43,"Pemberantasan Hama Meliputi: Penyemprotan, Penyiangan, Geropyokan, Sparayer,         "
+,Pemberantasan Melalui Udara                                                                                              
+  .44,Pestisida
+ .5,Tanah Pertanian Pangan
+ .51,Persawahan
+ .52,Perladangan
+ .53,Kebun                                                                                                                                   
+ .54,Rumpun Ikan Laut        
+ .55,KTA/Lahan Kritis
+ .6,Pengusaha Petani                                                                                                                 
+ .7,Bina Usaha
+ .71,Pasca Panen
+ .72,Pemasaran Hasil
+522,Kehutanan
+ .1,Program
+ .11,Hak Pengusahaan Hutan
+ .12,Tata Guna Hutan
+ .13,Perpetaan Hutan
+ .14,Tumpangsari
+ .2,Produksi
+ .21,Kayu
+ .22,Non Kayu
+ .3,Sarana  Usaha  Kehutanan 
+ .4,"Penghijauan, Reboisasi"
+ .5,Kelestarian
+ .51,"Cagar Alam, Marga Satwa, Suaka Marga Satwa"
+ .52,Berburu Meliputi Larangan Dan Ijin Berburu
+ .53,Kebun Binatang
+ .54,Konservasi Lahan
+ .6,Penyakit/Hama
+ .7,Jenis-jenis Hutan
+ .71,Hutan Hidup
+ .72,Hutan Wisata
+ .73,Hutan Produksi
+ .74,Hutan Lindung
+523,Perikanan
+.1,Program
+ .11,Penyuluhan
+ .12,Teknologi
+ .2, Produksi
+ .21,Pelelangan
+ .3,Usaha Perikanan
+ .31,Pembibitan
+ .32,Daerah Penagkapan
+ .33,"Pertambakan Meliputi: ( Tambak Ikan Air Deras, Tambak Udang dll )"
+ .34,Jaring Terapung
+ .4,Sarana
+ .41,Peralatan
+ .42,Kapal
+ .43,Pelabuhan
+ .5,Pengusaha
+ .6,Nelayan
+524,Peternakan
+  .1,Produksi
+  .11,Susu Ternak Rakyat
+  .12,Telur
+  .13 ,Daging
+  .14,Kulit
+  .2,Sarana Usaha Ternak
+  .21,Pembibitan
+  .22,Kandang Ternak
+ .3,Kesehatan Hewan
+  .31,Penyakit Hewan
+  .32,Pos Kesehatan Hewan
+  .33,Tesi Pullorum
+  .34,Karantina
+  .35,Pemberantasan Penyakit Hewan Termasuk Usaha Pencegahannya
+  .4,Perunggasan
+  .5,Pengembangan Ternak
+  .51,Inseminasi Buatan
+  .52,Pembibitan / Bibit Unggul
+  .53,Penyebaran Ternak
+  .6,Makanan Ternak
+  .7,Tempat Pemotongan Hewan
+  .8,Data Peternakan
+525,Perkebunan
+  .1,Program
+  .2,Produksi
+  .21,Karet
+  .22,The
+  .23,Tembakau
+  .24,Tebu
+  .25,Cengkeh
+  .26,Kopra
+  .27,Kopi
+  .28,Coklat
+  .29,Aneka Tanaman
+526,-
+527,-
+528,-
+530,PERINDUSTRIAN
+  .08,Undang-Undang Gangguan
+531,Industri Logam
+532,Industri Mesin/Elektronik
+533,Industri Kimia/Farmasi
+534,Industri Tekstil
+535,Industri Makanan / Minuman
+536,Aneka Industri / Perusahaan
+537,Aneka Kerajinan
+538,Usaha Negara / BUMN
+  .1,Perjan
+  .2,Perum
+  .3,"Persero / PT, CV"
+539,Perusahaan Daerah / BUMD/BULD
+540,PERTAMBANGAN / KESAMUDRAAN
+541,Minyak Bumi / Bensin
+   .1,Pengusahaan
+542,Gas bumi
+  .1,Eksploitasi / Pengeboran
+  .11,Kontrak Kerja
+  .2,"Penogolahan,Meliputi :Tangki, Pompa, Tanker"
+543,Aneka Tambang
+  .1,Timah
+  .2,"Alumunium, Boxit"
+  .3,Besi Termasuk Besi Tua
+  .4,Tembaga
+  .5,Batu Bara
+544,"Logam Mulia,Emas,Intan,Perak"
+545,Logam
+546,Geologi
+  .1,Vulkanologi
+  .11,Pengawasan Gunung Berapi
+  .2,"Sumur Artesis, Air Bawah Tanah"
+547,Hidrologi
+548,Kesamudraan
+549,Pesisir Pantai
+550,PERHUBUNGAN
+551,Perhubungan Darat
+  .1,"Lalu Lintas Jalan Raya, Sungai, Danau"
+  .11,"Keamanan Lalu Lintas, Rambu-Rambu"
+  .2,Angkutan Jalan Raya
+  .21,Perizinan 
+  .22,Terminal
+  .23,Alat Angkutan
+  .3,Angkutan Sungai
+  .31,Perizinan
+  .32,Terminal
+  .33,Pelabuhan
+  .4,Angkutan Danau
+  .41,Perizinan
+  .42,Terminal
+  .43,Pelabuhan
+  .5,Feri
+  .51,Perizinan
+  .52,Terminal
+  .53,Pelabuhan
+  .6,Perkereta-Apian
+552,Perhubungan Laut
+  .1,"Lalu Lintas Angkutan Laut, Pelayanan Umum"
+  .11,"Keamanan Lalu Lintas, Rambu-Rambu"
+  .12,Pelayaran Dalam Negeri
+  .13,Pelayaran Luar Negeri
+  .2,Perkapalan Alat Angkutan
+  .3,Pelabuhan
+  .4,Pengerukan
+  .5,Penjagaan Pantai
+553,Perhubungan Udara
+  .1,Lalu Lintas Udara / Keamanan Lalu Lintas Udara
+  .2,Pelabuhan Udara
+  .3,Alat Angkutan
+554,Pos 
+555,Telekomunikasi
+  .1,Telepon
+  .2,Telegram
+  .3,"Telex / SSB, Faximile"
+  .4,"Satelit, Internet"
+  .5,"Stasiun Bumi, Parabola"
+556,Pariwisata dan Rekreasi
+  .1,Obyek Kepariwisataan Taman Mini Indonesia Indah
+  .2,Perhotelan
+  .3,Travel service
+  .4,Tempat Rekreasi
+557,Meteorologi
+  .1,Ramalan Cuaca
+  .2,Curah Hujan
+  .3,Kemarau Panjang
+558, -
+559, -
+560,TENAGA KERJA
+  .1,Pengangguran
+561,Upah
+562,"Penempatan Tenaga Kerja, TKI"
+563,Latihan Kerja
+564,Tenaga Kerja
+   .1,Butsi
+   .2,Padat Karya
+565,Perselisihan Perburuhan
+566,Keselamatan Kerja
+567,Pemutusan Hubungan Kerja
+568,kesejahteraan Buruh
+569,Tenaga Orang Asing
+570,PERMODALAN
+571,Modal Domestik
+572,Modal Asing
+573,Modal Patungan (Joint Venture) / Penyertaan Modal
+574,Pasar Uang Dan Modal
+575,Saham
+576,Belanja Modal
+577,Modal Daerah
+580,PERBANKAN / MONETER
+581,Kredit
+582,Investasi
+583,"Pembukaan ,Perubahan,Penutupan Rekening, Deposito"
+584,Bank Pembangunan Daerah
+585,Asuransi Dana Kecelakaan Lalu Lintas
+586,"Alat Pembayaran, Cek, Giro, Wesel, Transfer"
+587,Fiskal
+588,Hutang Negara
+589,Moneter
+590,AGRARIA
+591,Tataguna Tanah
+  .1,Pemetaan dan Pengukuran
+  .2,Perpetaan
+  .3,penyediaan Data
+  .4,Fatwa Tata Guna Tanah
+  .5,Tanah Kritis
+592,Landreform  
+  .1,Redistribusi
+  .11,Pendaftaran Pemilikan Dan Pengurusan
+  .12,Penentuan Tanah Obyek Landreform
+  .13,Pembagian Tanah Obyek Landreform
+  .14,Sengketa Redistribusi Tanah Obyek Landreform
+  .2,Ganti Rugi
+  .21,Ganti Rugi Tanah Kelebihan
+  ,Meliputi : Sengketa Ganti Rugi Tanah Kelebihan Tanah
+  .22,Ganti Rugi Tanah Absentee
+,Meliputi : Sengketa Ganti Rugi Tanah Absentee
+  .23,Ganti Rugi Tanah Partikelir
+,Meliputi : Sengketa Ganti Rugi Tanah Partikelir
+ .3,Bagi Hasil
+ .31,Penetapan Imbangan Bagi Hasil
+ .32,Pelaksanaan Perjanjian Bagi Hasil 
+ .33,Sengketa Perjanjian Bagi Hasil
+ .4,Gadai Tanah
+ .41,Pendaftaran Pemilikan Dan Pengurusan
+ .42,Pelaksanaan Gadai Tanah
+ .43,Sengketa Gadai Tanah
+ .5,Bimbingan dan Penyuluhan
+ .6,Pengembangan 
+ .7,Yayasan Dana Landreform
+593,Pengurusan Hak-Hak Tanah
+  .01,Penyusunan Program Dan Bimbingan Teknis
+  .1,Sewa Tanah
+  .11,"Sewa Tanah Untuk Tanaman Tertentu, Tebu, Tembakau, Rosela, Chorcorus"
+  .2,Hak Milik
+  .21,Perorangan
+  .22,Badan Hukum
+  .3,Hak Pakai
+  .31,Perorangan
+.311,Warga Negara Indonesia
+.312,Warga Negara Asing
+.32,Badan Hukum
+.321,Badan Hukum Indonesia
+.322,"Badan Hukum Asing, Kedutaan, Konsulat Kantor Dagang Asing"
+.33,Tanah Gedung-Gedung Negara
+ .4,Guna Usaha
+ .41,Perkebunan Besar
+ .42,Perkebunan Rakyat 
+ .43,Peternakan
+ .44,Perikanan
+ .45,Kehutanan
+ .5,Hak Guna Bangunan
+ .51,Perorangan
+ .52,Badan Hukum
+ .53,P3MB (Panitia Pelaksana Penguasaan Milik Belanda)
+ .54,Badan Hukum Asing Belanda-Prrk No 5165
+ .55,Pemulihan Hak (Pen Pres 4/1960)
+.6,Hak Pengelolaan 
+.61,"PN Perumnas, Bonded Ware House, Industrial Estate, Real Estate"
+.62,Perusahaan Daerah Pembangunan Perumahan
+.7,Sengketa Tanah
+.71,Peradilan Perkara Tanah
+.8,Pencabutan dan Pembebasan Tanah
+.81,Pencabutan Hak
+.82,Pembebasan Tanah
+.83,Ganti Rugi Tanah
+594,Pendaftaran Tanah
+    .1,Pengukuran / Pemetaan
+  .11,Fotogrametri
+  .12,Terristris
+  .13,Triangulasi
+  .14,Peralatan
+.2,Dana Pengukuran (Permen Agraria No. 61/1965)
+.3,Sertifikat
+.4,Pejabat Pembuat Akta Tanah (PPAT)
+595,Lahan Transmigrasi
+.1,Tataguna Tanah
+.2,Landreform
+.3,Pengurusan Hak-Hak Tanah
+.4,Pendaftaran Tanah
+596,-
+597,-
+598,-
+599,-
+600,PEKERJAAN UMUM DAN KETENAGAKERJAAN
+601,Tata Bangunan Konstruksi Dan Industri Konstruksi
+602,Kontraktor Pemborong
+    .1,Tender
+    .2,Pennunjukan
+    .3,Prakualifikasi
+.  31,Daftar Rekanan Mampu (DRM)
+  .32,Tanda Daftar Rekanan
+603,Arsitektur
+604,Bahan Bangunan
+    .1,"Tanah Dan Batu Seperti: Batu Belah, Steen Slaag, Split dsb"
+    .2,"Aspal, Aspal Buatan, Aspal Alam (butas)"
+3,Besi Dan Logam Lainnya
+  .31,Besi Beton
+32,Besi Profil
+  .33,Paku
+  .34,"Alumunium, Profil"
+    .4,"Bahan-Bahan Pelindung Dan Pengawet (Cat, Tech Til, Pengawet Kayu) "
+    .5,Semen
+    .6,Kayu
+    .7,"Bahan Penutup Atap ( Genting, Asbes Gelombang, Seng Dan Sebagainya)"
+    .8,Alat-Alat Penggantung Dan Pengunci
+    .9,Bahan-Bahan Bangunan Lainnya
+605,Instalasi
+    .1,Instalasi Bangunan
+    .2,Instalasi Listrik
+    .3,Instalasi Air Sanitasi
+    .4,Instalasi Pengatur Udara
+    .5,Instalasi Akustik
+    .6,Instalasi Cahaya / Penerangan
+606,Konstruksi Pencegahan
+    .1,Konstruksi Pencegahan Terhadap Kebakaran
+    .2,Konstruksi Pencegahan Terhadap Gempa
+    .3,Konstruksi Penegahan Terhadap Angin Udara/Panas
+    .4,Konstruksi Pencegahan Terhadap Kegaduhan
+    .5,Konstruksi Pencegahan Terhadap Gas/Explosive
+    .6,Konstruksi Pencegahan Terhadap Serangga
+    .7,Konstruksi Pencegahan Terhadap Radiasi Atom
+607,-
+608,-
+609,-
+610,PENGAIRAN
+611,Irigasi
+1,Bangunan Waduk
+  .11,Bendungan
+  .12,Tanggul
+  .13,Pelimpahan Banjir
+  .14,Menara Pengambilan
+    .2,Bangunan Pengambilan
+  .21,Bendungan
+  .22,Bendungan Dengan Pintu Bilas
+  .23,Bendungan Dengan Pompa
+  .24,Pengambilan Bebas
+  .25,Pengambilan Bebas Dengan Pompa
+  .26,Sumur Dengan Pompa
+  .27,Kantung Lumpur
+  .28,Slit Ekstrator
+  .29,Escope Channel
+    .3,Bangunan Pembawa
+  .31,Saluran
+.311,Saluran Induk
+.312,Saluran Sekunder
+.313,Suplesi
+.314,Tersier
+.315,Saluran Kwarter
+.316,Saluran Pasangan
+.317,Saluran Tertutup / Terowongan 
+.32,Bangunan
+.321,Bangunan Bagi
+.322,Bangunan Bagi Dan Sadap
+.323,Bangunan Sadap
+.324,Bangunan Check
+.325,Bangunan Terjun
+.33,Box Tersier
+.34,Got Miring
+.35,Talang
+.36,Syphon
+.37,Gorong-Gorong
+.38,Pelimpah Samping
+.4,Bangunan Pembuang
+.41,Saluran
+.411,Saluran Pembuang Induk
+.412,Saluran Pembuang Sekunder
+.413,Saluran Tersier
+.42,Bangunan
+.421,Bangunan Outlet
+.422,Bangunan Terjun
+.423,Bangunan Penahan Banjir
+.43,Gorong-Gorong Pembuang
+.44,Talang Pembuang
+.45,Syphon Pembuang
+.5,Bangunan Lainnya
+.51,Jalan
+.511,Jalan Inspeksi
+.512,Jalan Logistik Waduk Lapangan
+.52,Jembatan
+.521,Jembatan Inspeksi
+.522,Jembatan Hewan
+.53,Tangga Cuci
+.54,Kubangan Kerbau
+.55,Waduk Lapangan
+.56,Bangunan Penunjang
+.57,Jaringan Telepon
+.58,Stasiun Agro
+612,Folder
+  .1,Tanggul Keliling
+  .11,Tanggul
+  .12,Bangunan Penutup Sungai
+  .13,Jembatan
+  .2,Bangunan Pembawa
+  .21,Saluran
+.211,Saluran Muka
+.212,Saluran Pembawa Waduk
+.213,Saluran Pembawa Sekunder
+.22,Stasiun Pompa Pemasukan
+.23,Bangunan Bagi
+.24,Gorong-Gorong
+.25,Syphon
+.3,Bangunan Pembuang
+.31,Stasiun Pompa Pembuang
+.32,Saluran
+.321,Saluran Pembuang Induk
+.322,Saluran Pembuang Sekunder
+.33,Pintu Air Pembuangan
+.34,Gorong-Gorong Pembuangan
+.35,Syphon Pembuangan
+.4,Bangunan Lainnya
+.41,Bangunan
+.411,Bangunan Pengukur Air
+.412,Bangunan Pengukur Curah Hujan
+.413,Bangunan Gudang Stasiun Pompa
+.414,Bangunan Listrik Stasiun Pompa
+.42,Rumah Petugas Aksploitasi
+613,Pasang Surut
+.1,Bangunan Pembawa
+.11,Saluran
+.111,Saluran Pembawa Induk
+.112,Saluran Pembawa Sekunder
+.113,Saluran Pembawa Tersier
+.114,Saluran penyimpanan air
+.12,Bangunan Pintu Pemasukan
+.2 ,Bangunan Pembuang
+.21,Saluran
+.211,Saluran Pembuang Induk
+.212,Saluran Pembuang Sekunder
+.213,Saluran Pembuang Tersier
+.214,Saluran Pengumpul Air
+.22,Bangunan Pintu Pembuang
+.3,Bangunan Lainnya
+.31,Kolam Pasang
+.32,Saluran
+.321,Saluran Lalu Lintas
+.322,Saluran Muka
+.33,Bangunan
+.331,Bangunan Penangkis Kotoran 
+.332,Bangunan Pengukur Muka Air
+.333,Bangunan Pengukur Curah Hujan
+.34,Jalan
+.35,Jembatan
+614,Pengendalian Sungai
+   .1,Bangunan Pengaman
+ .11,Tanggul Banjir
+ .12,Pintu Pengatur Banjir
+ .13,Klep Pengatur Banjir
+ .14,Tembok Pengaman Talud
+ .15,Krib
+ .16,Kantung Lumpur
+ .17,Check-Dam
+ .18,Syphon
+   .2,Saluran Pengaman
+ .21,Saluran Banjir
+ .22,Saluran Drainage
+23,Corepure
+  .3,Bangunan Lainnya
+ .31,Warning System
+ .32,Stasiun
+.321,Stasiun Pengukur Curah Hujan
+.322,Stasiun Pengukur Air
+.323,Stasiun Pengukur Cuaca
+.324,Stasiun Pos Penjagaan
+615,Pengamanan Pantai
+    .1,Tanggul
+    .2,Krib
+    .3,Bangunan Lainnya
+616,Air Tanah
+   .1,Stasiun Pompa\
+   .2,Bangunan Pembawa
+   .3,Bangunan Pembuang
+   .4,Bangunan Lainnya
+617,-
+618,-
+619,-
+620,JALAN
+621,Jalan Kota
+    .1,Daerah Penguasaan
+  .11,Tanah
+  .12,Tanaman
+  .13,Bangunan
+   .2,Bangunan Sementara
+ .21,Jalan Sementara
+.22,Jembatan Sementara
+.23,Kantor Proyek
+.24,Gedung Proyek
+.25,Barak Kerja
+.26,Laboratorium Lapangan
+.27,Rumah 
+ .3,Badan Jalan
+.31,Pekerjaan Tanah (Earth Work)
+.32,Stabilisasi
+ .4,Perkerasan
+.41,Lapis Pondasi Bawah
+.42,Lapis Pondasi 
+.43,Lapis Permukaan
+ .5,Drainage
+.51,Parit Tanah
+.52,Gorong-Gorong (Culvert)
+ .6,Buku Trotuir
+.61,Tanah
+.62,Perkerasan
+.63,Pasangan
+ .7,Median
+.71,Tanah
+.72,Tanaman
+.73,Perkerasan
+.74,Pasangan
+ .8,Daerah Samping
+.82,Tanaman
+.83,Pagar
+  .9,Bangunan Pelengkap Dan Pengamanan
+.91,Rambu-Rambu/Tanda-Tanda Lalu Lintas
+.92,Lampu Penerangan
+.93,Lampu Pengatur Lalu Lintas
+.94,Patok-Patok KM
+.95,Patok-Patok ROW (Sempadan)
+.96,Rel Pengamanan 
+.97,Pagar
+.98,Turap Penahan
+.99,Bronjong
+622,Jalan Luar Kota
+   .1,Daerah Penguasaan
+ .11,Tanah
+ .12,Tanaman
+ .13,Bangunan
+  .2,Bangunan Sementara
+.21,Jalan Sementara
+.22,Jembatan Sementara
+.23,Kantor Proyek
+.24,Gudang Proyek
+.25,Barak Kerja
+.26,Laboratorium Lapangan
+.27,Rumah
+ .3,Badan Jalan
+.31,Pekerjaan Tanah (Earth Work)
+.32,Stabilisasi
+ .4,Perkerasan
+.41,Lapis Pondasi Bawah
+.42,Lapis Pondasi 
+.43,Lapis Permukaan
+  .5,Drainage
+.51,Parit 
+.52,Gorong-Gorong (Culvert)
+.53,Sub Drainage
+  .6,Trotoar
+.61,Tanah
+.62,Perkerasan
+  .7,Median
+.71,Tanah
+.72,Tanaman
+.73,Perkerasan
+.74,Pasangan
+  .8,Daerah Samping
+.81,Tanaman
+.82,Pagar
+.  9,Bangunan Pelengkap Dan Pengamanan
+. 91,Rambu-Rambu/Tanda-Tanda Lalu Lintas
+ .92,Lampu Penerangan
+ .93,Lampu Pengatur Lalu Lintas
+ .94,Patok-Patok KM
+ .95,Patok-Patok ROW (Sempadan)
+. 96,Rel Pengamanan 
+ .97,Pagar
+. 98,Turap Penahan
+ .99,Bronjong
+623,-
+623,-
+623,-
+630,JEMBATAN
+631,Jembatan Pada Jalan Kota
+   .1,Daerah Penguasaan
+ .11,Tanah
+ .12,Tanaman
+ .13,Bangunan
+.  2,Bangunan Sementara
+ .21,Jalan Sementara
+. 22,Jembatan Sementara
+. 23,Kantor Proyek
+ .24,Gudang Proyek
+ .25,Barak Kerja
+ .26,Laboratorium Lapangan
+ .27,Rumah
+.  3,Pekerjaan Tanah (Earth Work)
+.31,Galian Tanah
+.32,Timbunan Tanah
+  .4,Pondasi
+.41,Pondasi Kepala Jalan
+.42,Pondasi Pilar
+.43,Angker
+  .5,Bangunan Bawah
+.51,Kepala Jembatan
+.52,Pilar
+.53,Piloon
+.54,Landasan
+  .6,Bangunan
+.61,Gelagar
+.62,Lantai
+.63,Perkerasan
+.64,Jalan Orang / Trotoar
+.65,Sandaran
+.66,Talang air
+  .7,Bangunan / Pengaman
+.71,Turap Penahan
+.72,Bronjong
+.73,
+.74,Kist Dam
+.75,Corepure
+.76,Krib
+  .8,Bangunan Pelengkap 
+.81,Rambu-Rambu/Tanda-Tanda Lalu Lintas
+.82,Lampu Penerangan
+.83,Lampu Pengatur Lalu Lintas
+.84,Patok Pengaman
+.85,Patok ROW (Sempadan)
+.86,Pagar
+  .9,Oprit
+.91,Badan 
+.92,Perkerasan
+.93,Drainage
+.94,Baku
+.95,Median
+632,Jembatan Pada Jalan Luar Kota
+   .1,Daerah Penguasaan
+ .11,Tanah
+12,Tanaman
+. 13,Bangunan
+  .2,Bangunan Sementara
+ .21,Jalan Sementara
+ .22,Jembatan Sementara
+ .23,Kantor Proyek
+ .24,Gudang Proyek
+ .25,Barak Kerja
+ .26,Laboratorium Lapangan
+. 27,Rumah
+.  3,Pekerjaan Tanah (Earth Work)
+. 31,Galian Tanah
+.32,Timnunan Tanah
+  .4,Pondasi
+ .41,Pondasi Kepala Jembatan
+ .42,Pondasi Pilar
+ .43,Pondasi Angker
+  .5,Bangunan Bawah
+ .51,Kepala Jembatan
+ .52,Pilar
+ .53,Piloon
+ .54,Landasan
+  .6,Bangunan Atas
+ .61,Gelagar
+ .62,Lantai
+ .63,Perkerasan
+ .64,Jalan Orang / Trotoar
+ .65,Sandaran
+ .66,Talang Air
+  .7,Bangunan Pengaman
+ .71,Turap / Penahan
+ .72,Bronjong
+ .73,Stek Dam 
+ .74, Kist Dam
+ .75,Corepure
+ .76,Krib
+  .8,Bangunan Pelengkap
+ .81,Rambu-Rambu/Tanda-Tanda Lalu Lintas
+ .82,Lampu Penerangan
+ .83,Lampu Pengatur Lalu Lintas
+ .84,Patok Pengaman
+ .85,Patok ROW (Sempadan)
+ .86,Pagar
+  .9,Oprit
+ .91,Badan 
+ .92,Perkerasan
+ .93,Drainage
+ .94,Baku
+ .95,Median
+633,-
+634,-
+635,-
+640,BANGUNAN
+   .1,Gedung Pengadilan
+   .2,Rumah Pejabat Negara
+   .3,Gedung DPR
+   .4,Gedung Balai Kota
+   .5,Penjara
+   .6,Perkantoran
+642,Bangunan Pendidikan
+  .1,Taman Kanak-Kanak
+  .2,SD & SEKOLAH MENENGAH
+  .3,Perguruan Tinggi
+643,Bangunan Rekreasi
+  .1,BANGUNAN OLAH RAGA
+  .2,Gedung Kesenian
+  .3,Gedung Pemancar
+644,Bangunan Perdagangan
+  .1,Pusat Perbelanjaan
+  .2,Gedung Perdagangan
+  .3,Bank
+  .4,Pekantoran
+645,Bangunan Pelayanan Umum
+  .1,MCK
+  .2,Gedung Parkir
+  .3,Rumah Sakit
+  .4,Gedung Telkom
+  .5,Terminal Angkutan udara
+  .6,Terminal Angkutan udara
+  .7,Terminal Angkutan Darat
+  .8,Bangunan Keagamaan
+646,Bangunan Peninggalan Sejarah
+  .1,Monumen
+  .2,Candi
+  .3,Keraton
+  .4,Rumah Tradisional
+647,Bangunan Industri
+648,Bangunan Tempat Tinggal
+  .1,Rumah Perkotaan
+ .11,Inti / Sederhana
+ .12,Sedang / Mewah
+   .2,Rumah Pedesaan
+ .21,Rumah Contoh
+  .3,Real Estate
+  .4,Bapetarum
+649,Elemen Bangunan
+  .1,Pondasi
+.11,Di Atas Tiang
+  .2,Dinding
+.21,Penahan Beban
+.22,Tidak Menahan Beban
+ .3,Atap
+ .4,Lantai / Langit-Langit
+.41,Supended
+.42,Solit
+ .5,Pintu / Jendela
+.51,Pintu Harmonik
+.52,Pintu Biasa
+.53,Pintu Sorong
+.54,Pintu Kayu
+.55,Jendela Sorong
+.56,Jendela Vertikal
+650,TATA KOTA
+651,Daerah Perdagangan / Pelabuhan
+   .1,Daerah Pusat Perbelanjaan
+   .2,Daerah Perkotaan
+652,Daerah Pemerintah
+653,Daerah Perumahan
+   .1,Kepadatan Rendah
+   .2,Kepadatan Tinggi
+654,Daerah Industri
+  .1,Industri Berat
+  .2,Industri Ringan
+  .3,Industri Ringan (Home Industry)
+655,Daerah Rekreasi
+  .1,Public Garden
+  .2,Sport & Playing Fields
+  .3,Open Space
+656,Transportasi (Tata Letak)
+  .1,Jaringan Jalan
+.11,Penerangan Jalan
+  .2,Jaringan Kereta Api
+  .3 ,Jaringan Sungai
+657,Assaineering
+  .1,Saluran Pengumpulan
+  .2,Instalasi Pengolahan
+ .21,Bangunan
+.211,Bangunan Penyaringan
+.212,Bangunan Penghancur Kotoran / Sampah
+.213,Bangunan Pengendap
+.214,Bangunan Pengering Lumpur
+.22,Unit Densifektan
+.23,Unit Perpompaan
+658,Kesehatan Lingkungan
+   .1,Persampahan
+ .11,Bangunan Pengumpul
+ .12,Bangunan Pemusnahan
+  .2,Pengotoran Udara
+  .3,pengotoran Air
+ .31,Air Buangan Industri Limbah
+  .4,Kegaduhan
+  .5,Kebersihan Kota
+659,-
+660,TATA LINGKUNGAN
+.1,Persampahan
+.2,Kebersihan Lingkungan
+.3,Pencemaran
+.31,Pecemaran Air
+.32,Pencemaran Udara
+661,Daerah Hutan
+662,Daerah Pertanian
+663,Daerah Pemikiman
+664,Pusat Pertumbuhan
+665,Transportasi
+.1,Jaringan Jalan
+.2,Jaringan Kereta Api
+.3     ,Jaringan Sungai
+666,-
+667,-
+668,-
+670,KETENAGAAN
+671,Listrik
+.1,Kelistrikan
+,
+.11,Kelisrikan PLN
+.12,Kelistrikan Non PLN
+.2,Pembangkit Tenaga Listrik
+.21,PLTA  ( Pembangkit  Listrik Tenaga Air )
+.22,PLTD  ( Pembangkit Listrik Tenaga Diesel )
+.23,PLTG P ( Pembangkit Listrik Tenaga Gas )
+.24,PLTM ( Pembangkit  Listrik Tenaga Matahari )
+.25,PLTN ( Pembangkit Listrik Tenaga Nuklir )
+.26,PLTPB ( Pembangkit Listrik Tenaga Uap )
+.3,Transmisi Tenaga Listrik
+31,Gardu Induk/Gardu Penghubung/Gardu Trafo
+.32,Saluran Udara Tegangan Tinggi
+.33,Kabel Bawah Tanah
+.4,Distribusi Tenaga Listrik
+.41,Gardu Distribusi
+.42,Tegangan Rendah
+.43,Tegangan Menengah
+.44,Jaringan Bawah Tanah
+.5,Pengusahaan Listrik
+.51,Sambungan Listrik
+.52,Penjualan Tenaga Listrik
+.53,Tarif Listrik
+672,Tenaga Air
+673,Tenaga Minyak
+674,Tenaga Gas
+675,Tenaga Matahari
+676,Tenaga Nuklir
+677,Tenaga Panas Bumi
+678,Tenaga Uap
+679,Tenaga Lainya
+680,PERALATAN
+681,-
+682,-
+683,-
+690,AIR MINUM
+691,Intake
+    .1,Broncaptering
+    .2,Sumur
+    .3,Bendungan
+   .4,Saringan (screen)
+   .5,Pintu air 
+   .6,Saluran Pembawa
+   .7,Alat Ukur
+   .8,Perpompaan
+692,Transmisi Air Baku
+  .1,Perpipaan
+  .2,Katup Udara (Air Relief)
+  .3,Katup Penguras (Blow Off)
+  .4,Bak Pelepas Tekanan
+  .5,Jembatan Pipa
+  .6,Syphon
+693,Instalasi Pengelolaan
+  .1,Bangunan Ukur
+  .2,Bangunan Aerasi
+  .3,Bangunan Pengendapan
+  .4,Bangunan Pembubuh Bahan Kimia
+  .5,Bangunan Pengaduk
+  .6,Bangunan Saringan
+  .7,Perpompaan
+  .8,Clear Hell
+694,Distribusi
+  .1,Reservoir Menara Bawah Tanah
+ .11,Menara
+ .12,reservoir di Bawah Tanah
+  .2,Perpipaan
+  .3,Perpompaan
+  .4,Jembatan Pipa
+  .5,Syphon
+  .6,Hydran
+ .61,Hydran Umum
+ .62,Hydran Kebakaran
+  .7,Katup
+ .71 ,Katup Udara (Air Relief)
+ .72,Katup Pelepas (Blow Off)
+   .8,Bak Pelepas Tekanan
+695,-
+696,-
+697,-
+698,-
+699,-
+700,PENGAWASAN
+701,Bidang Urusan Dalam
+702,Bidang Peralatan
+703,Bidang Kekayaan Daerah
+704,Bidang Perpustakaan / Dokumentasi / Kearsipan Sandi
+705,Bidang Perencanaan
+706,Bidang Organisasi / Ketatalaksanaan
+707,Bidang Penelitian
+708,Bidang Konferensi
+709,Bidang Perjalanan Dinas
+710,BIDANG PEMERINTAHAN
+711,Bidang Pemerintahan Pusat
+712,Bidang Pemerintahan Provinsi
+713,Bidang Pemerintahan Kabupaten / Kota
+714,Bidang Pemerintahan Desa
+715,Bidang MPR / DPR
+716,Bidang DPRD Provinsi
+717,Bidang DPRD Kabupaten / Kota
+718,Bidang Hukum
+719,Bidang Hubungan Luar Negeri
+720,BIDANG POLITIK
+721,Bidang Kepartaian 
+722,Bidang Organisasi Kemasyarakatan
+723,Bidang Organisasi Profesi Dan Fungsional
+724,Bidang Organisasi Pemuda
+725,"Bidang Organisasi Buruh, Tani, Dan Nelayan"
+726,Bidang Organisasi Wanita
+727,Bidang Pemilihan Umum
+730,BIDANG KEAMANAN/KETERTIBAN
+731,Bidang Pertahanan
+732,Bidang Kemiliteran
+733,Bidang Perlindungan Masyarakat
+734,Bidang Kemanan
+735,bidang Kejahatan
+736,Bidang Bencana
+737,Bidang Kecelakaan
+738,-
+739,-
+740,BIDANG KESEJAHTERAAN RAKYAT
+741,Bidang Pembagunan Desa
+742,Bidang Pendidikan
+743,Bidang Kebudayaan
+744,Bidang Kesehatan
+745,Bidang Agama
+746,Bidang Sosial
+747,Bidang Kependudukan
+748,Bidang Media Massa
+749,-
+750,BIDANG PEREKONOMIAN
+751,Bidang Perdagangan
+752,Bidang Pertanian
+753,Bidang Perindustrian
+754,Bidang Pertambangan / Kesamudraan
+755,Bidang Perhubungan
+756,Bidang Tenaga Kerja
+757,Bidang Permodalan
+758,Bidang Perbankan / Moneter
+759,Bidang Agraria
+760,BIDANG PEKERJAAN UMUM
+761,Bidang Pengairan
+762,Bidang Jalan
+763,Bidang Jembatan
+764,Bidang Bangunan
+765,Bidang Tata Kota
+766,Bidang Lingkungan
+767,Bidang Ketenagaan
+768,Bidang Peralatan
+769,Bidang Air Minum
+770,-
+771,-
+772,-
+780,BIDANG KEPEGAWAIAN
+781,Bidang Pengadaan Pegawai
+782,Bidang Mutasi Pegawai
+783,Bidang Kedudukan Pegawai
+784,Bidang Kesejahteran Pegawai
+785,Bidang Cuti
+786,Bidang Penilaian 
+787,Bidang Tata Usaha Kepegawaian
+788,Bidang Pemberhentian Pegawai
+789,Bidang Pendidikan Pegawai
+790,BIDANG KEUANGAN
+791,Bidang Anggaran
+792,Bidang Otorisasi
+793,Bidang Verifikasi
+794,Bidang Pembukuan
+795,Bidang Perbendaharaan
+796,Bidang Pembina Kebendaharaan
+797,Bidang Pendapatan
+798,-
+799,Bidang Bendaharaan
+800,KEPEGAWAIAN
+,Klasifikasi Disini: Kebijaksanaan Kepegawaian
+   .1,Perencanaan
+   .2,Penelitian
+.043,Pengaduan
+  .05,Tim
+  .07,Statistik
+  .08,Peraturan Perundang-Undangan
+810,PENGADAAN
+,"Meliputi: Lamaran, Pengujian Kesehatan, Dan Pengangkatan Calon Pegawai"
+811,Lamaran
+   .1,Testing
+   .2,Screening
+   .3,Panggilan
+812,Pengujian Kesehatan
+813,Pengangkatan Calon Pegawai
+   .1,Pengangkatan Calon Pegawai Golongan 1
+   .2,Pengangkatan Calon Pegawai Golongan II
+   .3,Pengangkatan Calon Pegawai Golongan III
+   .4,Pengangkatan Calon Pegawai Golongan IV
+   .5,Pengangkatan Calon Guru Inpres
+814,Pengangkatan Tenaga Lepas
+   .1,Pengangkatan Tenaga Bulanan / Tenaga Kontrak
+   .2,Pengangkatan Tenaga Harian 
+   .3,Pengangkatan Tenaga Pensiunan
+815,-
+816,-
+817,-
+820,MUTASI
+,"Meliputi: Pengangkatan, Kenaikan Gaji Berkala, Kenaikan Pangkat, Pemindahan, Pelimpahan Datasering, Tugas Belajar Dan Wajib Militer"
+821,Pengangkatan
+    .1,Pengangkatan Menjadi Pegawai Negeri Tetap 
+  .11,Pengangkatan Menjadi Pegawai Negeri Golongan 1
+  .12,Pengangkatan Menjadi Pegawai Negeri Golongan 2
+  .13,Pengangkatan Menjadi Pegawai Negeri Golongan 3
+  .14,Pengangkatan Menjadi Pegawai Negeri Golongan 4
+  .15,Pengangkatan Menjadi Pegawai Negeri Sipil Yang Cuti Di Luar Tanggungan Negara
+   .2,"Pengangkatan Dalam Jabatan, Pembebasan Dari Jabatan, Berita Acara Serah Terima Jabatan"
+ .21,Sekjen/Dirjen/Irjen/Kabag
+.22,Kepala Biro/Direktur/Inspektur/Kepala Pusat/Sekretaris/Kepala Dinas/Asisten Sekwilda
+.23,Kepala Bagian/Kepala Sub Direktorat/Kepala Bidang/Inspektur Pembantu
+.24,Kepala Subbagian/Kepala Seksi/Kepala Sub Bidang/Pemeriksa
+.25,Residen/Pembantu Gubernur
+.26,Wedana/Pembantu Bupati
+.27,Camat
+.28,Lurah Administratif (Lurah Desa)
+.29,Jabatan Lainnya
+822,Kenaikan Gaji Berkala
+  .1,Pegawai Golongan 1
+  .2,Pegawai Golongan 2
+  .3,Pegawai Golongan 3
+  .4,Pegawai Golongan 4
+823,Kenaikan Pangkat / Pengangkatan
+  .1,Pegawai Golongan 1
+  .2,Pegawai Golongan 2
+  .3,Pegawai Golongan 3
+  .4,Pegawai Golongan 4
+824,Pemindahan / Pelimpahan / Perbantuan
+  .1,Pegawai Golongan 1
+  .2,Pegawai Golongan 2
+  .3,Pegawai Golongan 3
+  .4,Pegawai Golongan 4
+  .5,Lolos Butuh
+  .6,Kurikulum dan Silabi
+  .7,Proposal (TOR)
+825,Datasering dan Penempatan Kembali
+826,Penunjukan Tugas Belajar
+  .1,Dalam Negeri
+  .2,Luar Negeri
+  .3,Tunjangan Belajar
+  .4,Penempatan Kembali
+827,Wajib Militer
+828,Mutasi Dengan Instansi Lain
+829,-
+830,KEDUDUKAN
+,"Meliputi: Perhitungan Masa Kerja, Penyesuaian Pangkat/Gaji, Penghargaan Ijasah, Dan Jenjang Pangkat"
+831,Perhitungan Masa Kerja
+832,Penyesuaian Pangkat / Gaji
+.1,Pegawai Golongan 1
+.2,Pegawai Golongan 2
+.3,Pegawai Golongan 3
+.4,Pegawai Golongan 4
+833,Penghargaan Ijazah / Penyesuaian
+834,Jenjang Pangkat / Eselonering
+835,-
+836,-
+837,-
+840,KESEJAHTERAAN PEGAWAI
+,"Meliputi: Tunjangan, Dana, Perawatan Kesehatan, Koperasi, Distribusi, Permahan/Tanah, Bantuan Sosial, Rekreasi Dan Dispensasi."
+841,Tunjangan
+    .1,Jabatan
+    .2,Kehormatan
+    .3,Kematian/Uang Duka
+    .4,Tunjangan Hari Raya
+    .5,Perjalanan Dinas Tetap/Cuti/Pindah
+    .6,Keluarga
+    .7,"Sandang, Pangan, Papan (Bapertarum)"
+842,Dana
+   .1,Taspen
+   .2,Kesehatan
+. 3,Asuransi
+843,Perawatan Kesehatan
+   .1,Poliklinik
+   .2,Perawatan Dokter
+.3,Obat-Obatan
+.4,Keluarga Berencana
+844,Koperasi / Distribusi
+  .1,Distribusi Pangan
+  .2,Distribusi Sandang
+  .3,Distribusi Papan
+845,Perumahan/Tanah
+.1, Perumahan Pegawai
+.2,Tanah Kapling
+.3,Losmen/Hotel
+846,Bantuan Sosial
+.1,Bantuan Kebakaran
+.2,Bantuan Kebanjiran
+847,-
+848,-
+849,-
+850,"CUTI Meliputi Cuti Tahunan, Cuti Besar, Cuti Sakit, Cuti Hamil, Cuti Naik Haji, Cuti "
+,Diluar Tanggungan Negara Dan Cuti Alasan Lain
+851,Cuti Tahunan
+852,Cuti Besar
+853,Cuti Sakit
+854,Cuti Hamil
+855,Cuti Naik Haji/Umroh
+856,Cuti Di Luar Tangungan Neagara
+857,Cuti Alasan Lain/Alasan Penting
+858,-
+859,-
+860,PENILAIAN 
+,"Meliputi: Penghargaan, Hukuman, Konduite, Ujian Dinas,Penilaian Kakayaan "
+,              Pribadi Dan Rehabilitasi
+861,Penghargaan
+  .1,Bintang/Satyalencana
+  .2,Kenaikan Pangkat Anumerta
+.3,Kenaikan Gaji Istimewa
+.4,Hadiah Berupa Uang
+.5,Pegawai Teladan
+862,Hukuman
+.1,Teguran Peringatan
+.2,Penundaan Kenaikan Gaji
+.3,Penurunan Pangkat
+.4,Pemindahan
+,Catatan: Pemberhentian Untuk Sementara Waktu Dan Pemberhentian Tidak Dengan Hormat Lihat 887 Dan 888
+863,"Konduite, DP3, Disiplin Pegawai"
+864,Ujian Dinas
+.1,Tingkat 1
+.2,Tingkat 2
+.3,Tingkat 3
+865,Penilaian Kehidupan Pegawai Negeri
+,"Meliputi: Petunjuk Pelaksanaan Hidup Sederhana, Penilaian Kekayaan Pribadi "
+,( LP2P )
+866,Rehabilitasi / Pengaktifan Kembali
+867,-
+868,-
+869,-
+870,TATA USAHA KEPEGAWAIAN
+,"Meliputi: Formasi, Bezetting, Registrasi,Daftar, Riwayat Hidup, Hak, Penggajian, Sumpah,/Janji Dan Korps Pegawai"
+871,Formasi
+872,Bezetting/Daftar Urut Kepegawaian
+873,Registrasi
+.1,NIP
+.2,KARPEG
+.3,Legitiminasi/Tanda Pengenal
+.4,"Daftar Keluarga, Perkawinan, Perceraian, Karis, Karsu"
+874,Daftar Riwayat Pekerjaan
+.1,Tanggal Lahir
+.2,Penggantian Nama
+.3,Izin kepartaian Organisasi
+875,Kewenangan Mutasi Pegawai
+.1,Pelimpahan Wewenang
+.2,Specimen Tanda Tangan
+876,Penggajian
+.1,SKPP
+877,Sumpah/Janji
+878,Korps Pegawai
+879,-
+880,PEMBERHENTIAN PEGAWAI
+,"Meliputi Atas  Pemberhentian,Permintaan Sendiri, Dengan Hak Pensiun, Karena"
+,"Meninggal Dunia, Alasan Lain, Dengan Diberi Uang Pesangon, Uang Tnggu Untuk"
+,Sementara Waktu Dan Pemberhentian Tidak Dengan  Hormat
+881,Permintaan Sendiri
+882,Dengan Hak Pensiun
+.1,Pemberhentian Dengan Hak Pensiun Pegawai Negeri Golongan 1
+.2,Pemberhentian Dengan Hak Pensiun Pegawai Negeri Golongan 2
+.3,Pemberhentian Dengan Hak Pensiun Pegawai Negeri Golongan 3
+.4,Pemberhentian Dengan Hak Pensiun Pegawai Negeri Golongan 4
+.5,Pensiun Janda / Duda
+.6,Pensiun Yatim Piatu
+.7,Uang Muka Pensiun
+883,Karena Meninggal
+.1,Karena Meninggal Dalam Tugas
+884,Alasan Lain
+885,Uang Pesangon
+886,Uang Tunggu
+887,Untuk Sementara Waktu
+888,Tidak Dengan Hormat
+889,-
+890,PENDIDIKAN PEGAWAI
+,"Meliputi: Perencanaan, Pendidikan Reguler, Pendidikan Non-Reguler, Pendidikan Ke Luar Negeri, Metode, Tenaga Pengajar, Administrasi Pendidikan, Fasilitas Sarana Pendidikan"
+891,Perencanaan 
+.1,Program
+.2,Kurikulum dan Silabi
+.3,Proposal ( TOR )
+892,Pendidikan _Egular / Kader
+.1,IPDN / APDN
+.2,Kursus-Kursus Reguler
+893,Pendidikan dan Pelatihan / Non Reguler
+.1,LEMHANAS
+.2,"Pendidikan dan Pelatihan Struktural, SPATI, SPAMEN, SPAMA, ADUMLA, ADUM"
+.3,Kursus-Kursus / Penataran
+.4,"Diklat Tehnik, Fungsional Dan Manajemen Pemerintahan"
+.5,Diklat Lainnya
+894,Pendidikan Luar Negeri
+.1,Berkesinambungan / Berkala / Bergelar
+.2,Non Gelar / Diploma
+895,Metode
+.1,Kuliah
+.2,"Ceramah, Simposium"
+.3,"Diskusi, Raker, Seminar, Lokakarya, Orientasi"
+.4,"Studi Lapangan, Kkn, Widyawisata"
+.5,Tanya Jawab / Sylabi / Modul / Kursil
+.7,Penugasan
+.8,Gladi
+896,Tenaga Pengajar / Widyaiswara/Narasumber
+.1,Moderator
+897,Administrasi Pendidikan
+.1,Tahun Pelajaran
+.2,"Persyaratan, Pendaftaran, Testing, Ujian"
+.3,STTP
+.4,Penilaian Angka Kredit
+.5,Laporan Pendidikan Dan Pelatihan
+898,Fasilitas Belajar
+.1,Tunjangan Belajar
+.2,Asrama
+.3,Uang Makan
+.4,Uang Transport
+.5,Uang Buku
+.6,Uang Ujian
+.7,Uang Semester / Uang Kuliah
+.8,Uang Saku
+899,Sarana
+.1,Bantuan Sarana Belajar
+.2,Bantuan Alat-Alat Tulis
+.3,Bantuan Sarana Belajar Lainnya
+900,KEUANGAN
+901,Nota Keuangan
+902,APBN
+903,APBD
+904,APBN-P
+905,Dana Alokasi Umum
+906,Dana Alokasi Khusus
+907,Dekonsentrasi (Pelimpahan Dana Dari Pusat Ke Daerah)
+907,-
+908,-
+910,ANGGARAN
+911,Rutin
+912,Pembangunan
+913, Anggaran Belanja Tambahan
+914,Daftar Isian Kegiatan (DIK)
+.1,Daftar Usulan Kegiatan (DUK)
+915,Daftar Isian Poyek (DIP)
+.1,Daftar Usulan Proyek (DUP)
+.2,Daftar Isian Pengguna Anggaran (DIPA)
+916,Revisi Anggaran
+917,-
+918,-
+920,OTORISASI / SKO
+921,Rutin
+922,Pembangunan
+923,SIAP
+924,Ralat SKO
+925,-
+926,-
+927,-
+930,VERIFIKASI
+931,SPM Rutin (daftar p8)
+932,SPM Pembangunan (daftar p8)
+933,Penerimaan (daftar p6. p7
+934,SPJ Rutin
+935,SPJ Pembangunan
+936,Nota Pemeriksaan
+937,SP Pemindahan Pembukuan
+938,-
+939,-
+940,PEMBUKUAN
+941,Penyusunan Perhitungan Anggaran
+942,Permintaan  Data Anggaran Laporan Fisik Pembangunan
+943,Laporan Fisik Pembangunan
+944,-
+945,-
+  950, PERBENDAHARAAN
+951,Tuntutan Ganti Rugi (ICW Pasal 74)
+952,Tuntutan Bendaharawan
+953,Penghapusan Kekayaan Negara
+954,Pengangkatan/Penggantian Pemimpin Proyak Dan Pengangkatan/Pemberhentian Bendaharawan
+955,Spesimen Tanda Tangan
+956,"Surat Tagihan Piutang, Ikhtisar Bulanan"
+957,-
+958,-
+959,-
+960,PEMBINAAN KEBENDAHARAAN
+961,Pemeriksaan Kas Dan Hasil Pemeriksaan Kas
+962,Pemeriksaan Administrasi Bendaharawan
+963,Laporan Keuangan Bendaharawan
+964,-
+965,-
+966,-
+970,PENDAPATAN
+971,Perimbangan Keuangan
+972,Subsidi
+973,"Pajak,Ipeda, IHH,IHPH"
+974,Retribusi
+975,Bea
+976,Cukai
+977,Pungutan / PNBP
+978,"Bantuan Presiden, Menteri Dan Bantuan Lainnya"
+979,-
+980,-
+981,-
+990,BENDAHARAWAN
+991,SKPP / SPP
+992,Teguran SPJ
+993,-
+994,-
+995,-
